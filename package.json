@@ -1,0 +1,21 @@
+{
+  "name": "restify-jwt",
+  "version": "0.0.1",
+  "description": "Json web token plugin for node restify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aeh/restify-jwt.git"
+  },
+  "author": "Andrew Harris",
+  "license": "BSD",
+  "dependencies": {
+    "jsonwebtoken": "~0.1.0",
+    "restify": "~2.6.1"
+  },
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-jshint": "~1.4.2",
+    "jshint-stylish": "~0.1.5"
+  }
+}
